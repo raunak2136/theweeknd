@@ -56,5 +56,5 @@
           with:
             app-name: 'bmwrobotics'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_7d6f7bc11a384664b496b10b2ca5606c }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_673343e270f44be6b19ab2724ed7a368 }}
             package: .
